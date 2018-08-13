@@ -1,6 +1,13 @@
 # PediyBooksProject
 看雪图书项目。本项目属个人推广行为，帮助看雪论坛宣传图书再印活动。再印活动针对已经绝版的看雪图书，面向广大网友，大家只需将所需的绝版的看雪图书评论到看雪论坛相关活动贴下，会有相关工作人员进行统计调查，欢迎大家积极参与。
 
+## 活动3：[《加密与解密（第4版）》开始预售](https://bbs.pediy.com/thread-230052.htm)
+
+- 2018-07-22 《加密与解密（第4版）》开始预售，预售地址：
+    - [京东-->https://item.jd.com/12395765.html](http://product.dangdang.com/25314072.html)
+    - [当当-->http://product.dangdang.com/25314072.html](http://product.dangdang.com/25314072.html)
+
+
 ## 活动2：[看雪推荐书单](https://bbs.pediy.com/thread-226605.html)
 
 ## 活动1：[《0day安全 软件漏洞分析技术》](https://bbs.pediy.com/thread-224860.htm)
